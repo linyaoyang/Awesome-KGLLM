@@ -23,6 +23,7 @@ In this repository, we collect recent advances in knowledge graph enhanced large
 <img src="figs/KGPLM-framework.png" width = "800" />
 
 ## Table of Contents
+- [Awesome-KGLLM](#awesome-kgllm)
 
 ## Before-training Enhancement KGPLMs
 ### Expand Input Structures
@@ -49,7 +50,7 @@ In this repository, we collect recent advances in knowledge graph enhanced large
 - Pretrained Encyclopedia: Weakly Supervised Knowledge-Pretrained Language Model [[paper]](https://arxiv.org/abs/1912.09637)
 - Exploiting Structured Knowledge in Text via Graph-Guided Representation Learning (EMNLP, 2020) [[paper]](https://aclanthology.org/2020.emnlp-main.722.pdf)
 
-## During-training enhancement KGPLMs
+## During-training Enhancement KGPLMs
 ### Incorporate Knowledge Encoders
 - ERNIE: Enhanced Language Representation with Informative Entities (ACL, 2019) [[paper]](https://aclanthology.org/P19-1139/)
 - ERNIE 3.0: Large-scale Knowledge Enhanced Pre-training for Language Understanding and Generation [[paper]](https://arxiv.org/abs/2107.02137)
@@ -84,4 +85,15 @@ In this repository, we collect recent advances in knowledge graph enhanced large
 - ERICA: Improving Entity and Relation Understanding for Pre-trained Language Models via Contrastive Learning (ACL-IJCNLP, 2021) [[paper]](https://aclanthology.org/2021.acl-long.260/)
 - SentiLARE: Sentiment-Aware Language Representation Learning with Linguistic Knowledge (EMNLP, 2020) [[paper]](https://aclanthology.org/2020.emnlp-main.567/)
 
-## Post-training E
+## Post-training Enhancement KGPLMs
+### Fine-tune PLMs withh Knowledge 
+- KALA: Knowledge-Augmented Language Model Adaptation (NAACL, 2022) [[paper]](https://aclanthology.org/2022.naacl-main.379/)
+- Pre-trained language models with domain knowledge for biomedical extractive summarization (Knowledge-Based Systems, 2022) [[paper]](https://www.sciencedirect.com/science/article/pii/S0950705122007328)
+- KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning (EMNLP-IJCNLP, 2019) [[paper]](https://aclanthology.org/D19-1282/)
+- Enriching contextualized language model from knowledge graph for biomedical information extraction (Briefings in bioinformatics, 2021) [[paper]](https://academic.oup.com/bib/article/22/3/bbaa110/5854405)
+- Incorporating Commonsense Knowledge Graph in Pretrained Models for Social Commonsense Tasks (DeeLIO, 2020) [[paper]](https://aclanthology.org/2020.deelio-1.9/)
+
+### Generate Knowledge-based Prompts
+- Benchmarking Knowledge-Enhanced Commonsense Question Answering via Knowledge-to-Text Transformation (AAAI, 2021) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17490/17297)
+- Enhanced story comprehension for large language models through dynamic document-based knowledge graphs (AAAI, 2022) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/21286)
+- Knowledge Prompting in Pre-trained Language Model for Natural Language Understanding (EMNLP, 2022) [[paper]](https://aclanthology.org/2022.emnlp-main.207.pdf)
