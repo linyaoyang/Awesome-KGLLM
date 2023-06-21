@@ -24,6 +24,9 @@ In this repository, we collect recent advances in knowledge graph enhanced large
 
 ## Table of Contents
 - [Awesome-KGLLM](#awesome-kgllm)
+  - [Overview](#overview)
+  - [Before-training Enhancement KGPLMs](#before-training-enhancement-kgplms)
+
 
 ## Before-training Enhancement KGPLMs
 ### Expand Input Structures
