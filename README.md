@@ -22,3 +22,8 @@ In this repository, we collect recent advances in knowledge graph enhanced large
 
 <img src="figs/KGPLM-framework.png" width = "800" />
 
+## Table of Contents
+
+## Before-training enhancement KGPLMs
+- ERNIE: Enhanced Language Representation with Informative Entities (ACL, 2019) [[paper]](https://aclanthology.org/P19-1139.pdf)
+
