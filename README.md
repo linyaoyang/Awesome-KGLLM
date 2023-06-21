@@ -26,7 +26,18 @@ In this repository, we collect recent advances in knowledge graph enhanced large
 - [Awesome-KGLLM](#awesome-kgllm)
   - [Overview](#overview)
   - [Before-training Enhancement KGPLMs](#before-training-enhancement-kgplms)
-
+    - [Expand Input Structures](#expand-input-structures)
+    - [Enrich Input Information](#enrich-input-information)
+    - [Generate New Data](#generate-new-data)
+    - [Optimize Word Masks](#optimize-word-masks)
+  - [During-training Enhancement KGPLMs](#during-training-enhancement-kgplms)
+    - [Incorporate Knowledge Encoders](#incorporate-knowledge-encoders)
+    - [Insert Knowledge Encoding Layers](#insert-knowledge-encoding-layers)
+    - [Add Independent Adapters](#add-independent-adapters)
+    - [Modify Pre-training Task](#modify-pre-training-task)
+  - [Post-training Enhancement KGPLMs](#post-training-enhancement-kgplms)
+    - [Fine-tune PLMs with Knowledge](#fine-tune-plms-with-knowledge)
+    - [Generate Knowledge-based Prompts](#generate-knowledge-based-prompts)
 
 ## Before-training Enhancement KGPLMs
 ### Expand Input Structures
@@ -89,7 +100,7 @@ In this repository, we collect recent advances in knowledge graph enhanced large
 - SentiLARE: Sentiment-Aware Language Representation Learning with Linguistic Knowledge (EMNLP, 2020) [[paper]](https://aclanthology.org/2020.emnlp-main.567/)
 
 ## Post-training Enhancement KGPLMs
-### Fine-tune PLMs withh Knowledge 
+### Fine-tune PLMs with Knowledge 
 - KALA: Knowledge-Augmented Language Model Adaptation (NAACL, 2022) [[paper]](https://aclanthology.org/2022.naacl-main.379/)
 - Pre-trained language models with domain knowledge for biomedical extractive summarization (Knowledge-Based Systems, 2022) [[paper]](https://www.sciencedirect.com/science/article/pii/S0950705122007328)
 - KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning (EMNLP-IJCNLP, 2019) [[paper]](https://aclanthology.org/D19-1282/)
