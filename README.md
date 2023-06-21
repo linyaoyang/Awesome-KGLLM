@@ -3,6 +3,4 @@ A collection of papers and resources about knowledge graph enhanced large langua
 
 The organization of these papers refers to our survey: [ChatGPT is not Enough: Enhancing Large Language Models with Knowledge Graphs for Fact-aware Language Modeling](http://blog.csdn.net/guodongxiaren "悬停显示")
 
-
-
-``
+Please let us know if you find any mistakes or have any suggestions by email: yangly@zhejianglab.com
