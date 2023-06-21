@@ -8,6 +8,14 @@ The organization of these papers refers to our survey: [ChatGPT is not Enough: E
 Please let us know if you find any mistakes or have any suggestions by email: yangly@zhejianglab.com
 
 If you find our survey useful for your research, please cite the following paper:
+```bash
+@article{KGLLM,
+title={ChatGPT is not Enough: Enhancing Large Language Models with Knowledge Graphs for Fact-aware Language Modeling},
+author={Yang, Linyao and Chen, Hongyang and Li, Zhao and Ding, Xiao and Wu, Xindong},
+journal={arXiv preprint arXiv:2306.11489},
+year={2023}
+}
+```
 
 
 
