@@ -17,5 +17,8 @@ year={2023}
 }
 ```
 
+## Overview
+In this repository, we collect recent advances in knowledge graph enhanced large language models. According to the stage at which KGs participate in pre-training, existing methods can be categorized into before-training enhancement, during-training enhancement, and post-training enhancement methods.
+
 
 
